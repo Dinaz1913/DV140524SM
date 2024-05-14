@@ -1,0 +1,14 @@
+{
+    "name": "Jack",
+    "surname": "Jones",
+    "main": "GamblingRoulette.php",
+    "credits": 0,
+    "CardNumber": 2223455666,
+    "CardStatus": "Visa",
+    "Bank": "RhineLandBank",
+    "value": "Eur",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "private": false
+}
